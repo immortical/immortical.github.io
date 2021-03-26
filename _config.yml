@@ -17,7 +17,7 @@ favicon: favicon.ico
 
 repository: immortical/immortical.github.io
 github_url: https://github.com/immortical
-url: http://www.ityouknow.com
+url: https://immortical.github.io
 enforce_ssl: ityouknow.com
 
 ## Gem
